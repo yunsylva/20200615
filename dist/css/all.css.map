@@ -1,0 +1,1 @@
+{"version":3,"file":"all.css","sources":["all.scss"],"sourcesContent":["$color: rgb(111, 183, 241);\r\nbody{\r\n    background-color: $color;\r\n}"],"names":[],"mappings":"AACA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAFZ,OAAkB,GAGzB"}
